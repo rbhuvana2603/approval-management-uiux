@@ -39,5 +39,30 @@ The design includes the following screens:
 ## 🔗 Project Link
 
 👉 [View Figma Design](https://www.figma.com/your-design-link-here)
+_(Replace this with your real link)_
+
+---
+
+## ✨ Preview
+
+You can add screenshots here:
+
+![Login Page](screens/login.png)  
+![Dashboard](screens/dashboard.png)
+
+---
+
+## 🙋‍♀️ About Me
+
+I’m passionate about crafting user-friendly digital experiences. Connect with me on:
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- ✨ [Portfolio](https://yourportfolio.com)
+- 💻 [GitHub](https://github.com/BhuvaneshwariR)
+
+---
+
+⭐️ **If you like this design, please star the repo!**
+
 # approval-management-uiux
 Figma UI/UX project for an Approval Management System — screens include login, dashboard, request flow, and admin panel.
